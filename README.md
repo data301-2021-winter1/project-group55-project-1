@@ -5,7 +5,7 @@
 
 The topic of interest we have chosen for our given project is the History of Grizzly Bear Mortalities in British Columbia. Given this topic, we hope to analyze what human activities lead to the highest amounts of grizzly bears deaths per year. This will allow us to understand and develop a picture of the effects that human activity has on a specific wildlife population. As avid hunters understanding wildlife not only in the wilderness but statistically is a useful tool in order to assess wildlife management and hunting sustainability for the future. Overall this dataset is an interesting topic to explore and hopefully can teach us some extraordinary knowledge of the effects humans have on the lives of grizzly bears in the province of British Columbia over an extended period of time.
 
-## **Describtion of dataset:**
+## **Description of dataset:**
 
 The dataset we have chosen for our given project is the History of Grizzly Bear Mortalities in British Columbia. The information is provided by the Ministry of Forests, Lands, Natural Resource Operations, and Rural Development Compulsory Inspection Database. It is a summary of studied human-caused grizzly bear mortalities by management units and grizzly bear population units in British Columbia between 1976 to 2017. The study specifically includes various traits and locations of the bears that may be useful in sorting through the information. Such as year of death, estimated age, wildlife management unit, kill type, sex and spatial status. This will allow us to paint a bigger picture of what types of bears are more likely to be killed by humans and why throughout a period of time. Overall this information will help us make connections and study human effects on a specific wildlife population's life.
 
