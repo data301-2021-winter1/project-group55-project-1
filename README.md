@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5849049&assignment_repo_type=AssignmentRepo)
 # **Group 55 - History Of Grizzly Bear Mortalities**
 
-## **-Topic/interest in this data set:**
+## **Topic/interest in this data set:**
 
 The topic of interest we have chosen for our given project is the History of Grizzly Bear Mortalities in British Columbia. Given this topic, we hope to analyze what human activities lead to the highest amounts of grizzly bears deaths per year. This will allow us to understand and develop a picture of the effects that human activity has on a specific wildlife population. As avid hunters understanding wildlife not only in the wilderness but statistically is a useful tool in order to assess wildlife management and hunting sustainability for the future. Overall this dataset is an interesting topic to explore and hopefully can teach us some extraordinary knowledge of the effects humans have on the lives of grizzly bears in the province of British Columbia over an extended period of time.
 
