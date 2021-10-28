@@ -18,7 +18,9 @@ The dataset we have chosen for our given project is the History of Grizzly Bear 
 
 ## **Images:**
 
-![Unknown](https://user-images.githubusercontent.com/90352194/139003301-9f29cb6e-aebb-416a-8c14-d825158e8902.jpeg)
+![Unknown](https://user-images.githubusercontent.com/90352194/139003301-9f29cb6e-aebb-416a-8c14-d825158e8902.jpeg) 
+
+![MU MAP](https://user-images.githubusercontent.com/90352194/139012057-3839268a-6c64-46a1-94e9-93b17f3d4d29.jpeg)
 
 ## **Jupyter Lab Data Set URL:** 
 - http://localhost:8888/doc/tree/grizzlybearmortalityhistory_1976_2017.csv
