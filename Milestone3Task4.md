@@ -1,3 +1,4 @@
+#"Research Quiestion Answer/Analysis" 
 Research Question Ideas: Task 4
 Looking at the data that we have on grizzly bear mortality in BC, we can see what areas and when each bear was killed between 1976 and 2017 as well as how it was killed, the age and what sex the bear was.
 We can use this data to see where the most bear deaths were, year by year, and where they were taken out of.
